@@ -15,6 +15,9 @@
       5. Delete an item
       6. Find an item
       7. Search an item
+      8. Free an array
+      9. Contract
+      10. Create new array
 
 [USAGE]
 
