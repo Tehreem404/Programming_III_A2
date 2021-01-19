@@ -7,7 +7,7 @@
 
 [DESCRIPTION]
 
-    This program will do basic structure (linked-list) algorithms
+    This program will do basic structure (array) algorithms
       1. Read an item
       2. Write an item
       3. Append an item
